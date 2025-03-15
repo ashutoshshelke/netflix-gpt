@@ -1,5 +1,6 @@
 # Netflix GPT
 Project link: [https://netflix-gpt-swart-seven.vercel.app](https://netflix-gpt-swart-seven.vercel.app/)
+[https://netflixgpt-f013f.web.app/](https://netflixgpt-f013f.web.app/)
 
 - create react app
 - Configured tailwind css 
